@@ -1,0 +1,13 @@
+site_name: Documentación de biblioteca
+
+nav: 
+  - Inicio: index.md
+  - 'Guia de usuario':
+    - 'Sistema de autenticacion': 'authenticated.md'
+  - Acerca de: 'about.md'
+
+theme: readthedocs
+
+
+
+
